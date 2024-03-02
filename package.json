@@ -1,0 +1,21 @@
+{
+  "name": "rafcoder-coder",
+  "displayName": "RAFCoder",
+  "description": "Rafe's Custom Theme",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.87.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "RAFCoder",
+        "uiTheme": "vs-dark",
+        "path": "./themes/RAFCoder-color-theme.json"
+      }
+    ]
+  }
+}
